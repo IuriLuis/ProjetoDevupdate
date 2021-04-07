@@ -1,0 +1,33 @@
+{
+  "name": "iuriluis/projetoatelco",
+  "description": "Esse projeto foi desenvolvido visando apresentar uma solução para uma empresa de telecomunicações.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "IURI LUIS",
+      "email": "iuriferreiradelgado@gmail.com",
+      "homepage": "https://www.instagram.com.br/iuriluisferreira",
+      "role": "Developer"
+    }
+  ],"config": {
+  "vendor-dir": "external"
+},
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Boot/Config.php",
+      "source/Boot/Helpers.php",
+      "source/Boot/Minify.php"
+    ]
+  },
+  "require": {
+    "coffeecode/optimizer": "2.0.2",
+    "coffeecode/router": "1.0.8",
+    "coffeecode/datalayer": "1.1.8",
+    "league/plates": "v4.0.0-alpha",
+    "matthiasmullie/minify": "1.3.66"
+  }
+}

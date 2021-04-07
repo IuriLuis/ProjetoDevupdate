@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/external/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/external/league/oauth2-client" />
+      <path value="$PROJECT_DIR$/external/league/oauth2-facebook" />
+      <path value="$PROJECT_DIR$/external/league/oauth2-google" />
+      <path value="$PROJECT_DIR$/external/league/plates" />
+      <path value="$PROJECT_DIR$/external/composer" />
+      <path value="$PROJECT_DIR$/external/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/external/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/external/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/external/coffeecode/optimizer" />
+      <path value="$PROJECT_DIR$/external/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/external/coffeecode/paginator" />
+      <path value="$PROJECT_DIR$/external/coffeecode/router" />
+      <path value="$PROJECT_DIR$/external/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/external/psr/http-client" />
+      <path value="$PROJECT_DIR$/external/psr/http-message" />
+      <path value="$PROJECT_DIR$/external/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/external/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/external/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/external/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/external/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/external/league/oauth2-client" />
+      <excludeFolder url="file://$MODULE_DIR$/external/league/oauth2-facebook" />
+      <excludeFolder url="file://$MODULE_DIR$/external/league/oauth2-google" />
+      <excludeFolder url="file://$MODULE_DIR$/external/league/plates" />
+      <excludeFolder url="file://$MODULE_DIR$/external/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/external/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/external/coffeecode/datalayer" />
+      <excludeFolder url="file://$MODULE_DIR$/external/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/external/coffeecode/optimizer" />
+      <excludeFolder url="file://$MODULE_DIR$/external/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/external/coffeecode/paginator" />
+      <excludeFolder url="file://$MODULE_DIR$/external/coffeecode/router" />
+      <excludeFolder url="file://$MODULE_DIR$/external/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/external/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/external/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/external/matthiasmullie/path-converter" />
+      <excludeFolder url="file://$MODULE_DIR$/external/matthiasmullie/minify" />
+      <excludeFolder url="file://$MODULE_DIR$/external/phpmailer/phpmailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
