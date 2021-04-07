@@ -21,3 +21,16 @@ Eu não consegui fazer criar a listagem de usuários para o administrador visual
 Tenho mais 2 problemas com relação ao nível de acesso, problemas esses que passei cerca de 14:30 tentando encontrar e não consegui. O sistema não atualiza o nível de acesso de um usuário comum para administrador, só ao contrario e o sistema não criar cadastros de usuários administradores, somente comum, mesmo estando logado como admin.
 
 Verifiquei por muito tempo o código para ver se achava o erro e não consegui, sei que um dos principais propósitos do teste era justamente o admin poder criar novos cadastros admins, mas não consegue implementar, na verdade implementei da forma incorreta.
+
+Deixei cadastrado no banco 4 usuarios admin:
+
+admin1@teste.com
+admin2@teste.com
+admin3@teste.com
+admin4@teste.com
+
+Todos com a senha 12345678
+
+Caso precise fazer mais testes com usuarios admin voce pode cadastrar um usuario comun e diretamente no banco trocar o codigo de 1 para 0, sei que nao é o correto mas como nao achei o problema qeu impede a gravação de cadastros com o codigo 0 essa é a unica opcao.
+
+TODOS OS USUARIOS DA BASE POSSUEM A SENHA 12345678
